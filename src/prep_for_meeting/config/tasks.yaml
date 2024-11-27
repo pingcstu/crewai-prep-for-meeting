@@ -1,8 +1,7 @@
 research_task:
   description: >
     Conduct thorough research on {company}, their position in the sector,
-    and recent industry trends. Focus on news from the last year, as the current
-    year is 2024.
+    and recent industry trends. Focus on news from 2024. Watching the training industry trends.
 
     Take into account any information from prior interactions: {prior_interactions}
 
